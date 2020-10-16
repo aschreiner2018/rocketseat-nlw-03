@@ -11,7 +11,7 @@ Desenvolvido em NodeJS
 (http://localhost:3333)
 
 ## screenshots
-<img src="screenshots/server/1.png" width="100%" height="100%">
+<img src="screenshots/backend/1.png" width="100%" height="100%">
 
 # web
 Desenvolvido em ReactJS
@@ -35,13 +35,13 @@ Desenvolvido em React Native
 **(Para testar: Expo) yarn start
 
 ## screenshots
-<img src="screenshots/mobile/1.jpg" width="40%" height="40%">
-<img src="screenshots/mobile/2.jpg" width="40%" height="40%">
-<img src="screenshots/mobile/3.jpg" width="40%" height="40%">
-<img src="screenshots/mobile/4.jpg" width="40%" height="40%">
-<img src="screenshots/mobile/5.jpg" width="40%" height="40%">
-<img src="screenshots/mobile/6.jpg" width="40%" height="40%">
-<img src="screenshots/mobile/7.jpg" width="40%" height="40%">
+<img src="screenshots/mobile/1.png" width="40%" height="40%">
+<img src="screenshots/mobile/2.png" width="40%" height="40%">
+<img src="screenshots/mobile/3.png" width="40%" height="40%">
+<img src="screenshots/mobile/4.png" width="40%" height="40%">
+<img src="screenshots/mobile/5.png" width="40%" height="40%">
+<img src="screenshots/mobile/6.png" width="40%" height="40%">
+<img src="screenshots/mobile/7.png" width="40%" height="40%">
 
 ### Tecnologias e Bibliotecas utilizadas
 • TypeScript
